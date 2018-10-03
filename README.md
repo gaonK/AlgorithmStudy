@@ -10,7 +10,7 @@
 | Session 2 | 기초 5. 정렬   | 2018. 9. 11 | `gaonK` `hy00nc` `chws` |
 | Session 3 | 기초 6. 그래프 | 2018. 9. 14 | `gaonK` `hy00nc` `chws` |
 | Session 4 | 중급 1/2. 그리디 | 2018. 9. 17 | `gaonK` `hy00nc` |
-| Session 5 | 중급 1/2. 이분 탐색으로 정답 찾기 | 2018. 9. 20 | `gaonK` |
+| Session 5 | 중급 1/2. 이분 탐색으로 정답 찾기 | 2018. 9. 20 | `gaonK` `hy00nc` |
 | Session 6 | 중급 2/2. 다이나믹 프로그래밍 2 | 2018. 9. 28 |  |
 
 
