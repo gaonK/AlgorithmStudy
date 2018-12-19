@@ -38,7 +38,19 @@
 - [로또](https://www.acmicpc.net/problem/6603)
 - [부분집합의 합](https://www.acmicpc.net/problem/1182)
 
+#### 6. 자료구조 2
 
+- [검열](https://www.acmicpc.net/problem/3111)
+- [문자열 폭발](https://www.acmicpc.net/problem/9935)
+- [히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
+- [오아시스 재결합](https://www.acmicpc.net/problem/3015)
+- [집합의 표현](https://www.acmicpc.net/problem/1717)
+- [바이러스](https://www.acmicpc.net/problem/2606)
+- [최대 힙](https://www.acmicpc.net/problem/11279)
+- [최소 힙](https://www.acmicpc.net/problem/1927)
+- [Ceiling Function](https://www.acmicpc.net/problem/12767)
+- [회사에 있는 사람](https://www.acmicpc.net/problem/7785)
+- [듣보잡](https://www.acmicpc.net/problem/1764)
 
 #### 1. 다이나믹 프로그래밍 2
 
